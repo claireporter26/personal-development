@@ -1,0 +1,17 @@
+Extra Snug  {
+French Laundry Blue: #3a4660
+
+Comfortably Tan: #c9af98
+
+Peachy Kreme: #ed8a63
+
+Brown Bonnet: #845007
+}
+
+Lightening Blue/Purple {
+Lightning Blue: #51d0de
+
+Lightning Purple: #bf4aa8
+
+Brain Wrinkle White: #d9d9d9
+}

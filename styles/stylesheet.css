@@ -1,8 +1,6 @@
 
-
 body {
-background-color: #ffffcc;
-
+background-color: #51d0de;
 
 }
 
@@ -10,28 +8,18 @@ background-color: #ffffcc;
 h1 {
 
 text-align: center;
-text-decoration: underline;
-color: #660033;
+color: #bf4aa8;
 
 }
 
 h2 {
 
-color: #99004c;
+color: #bf4aa8;
 
 }
 
-h2 {
-
-color: #99004c;
-
-}
-
-}
-
-h3 {
-
-color: black;
+h3{
+color: #bf4aa8;
 
 }
 
@@ -39,7 +27,7 @@ color: black;
 
 padding: 20px;
 border: black 2px solid;
-background-color: #ffccff;
+
 width: 30%>
 float: left;
 
@@ -49,7 +37,7 @@ float: left;
 
 padding: 20px;
 border: black 1px solid;
-background-color: #e5ccff;
+background-color: #d9d9d9;
 width: 70%>
 float: right;
 
@@ -57,7 +45,7 @@ float: right;
 
 .header {
 
-width: 30%>
+width: 30%;
 float: left;
 
 }
